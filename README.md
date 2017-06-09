@@ -1,3 +1,3 @@
-# hello-worlds of other world
+# hello-worlds of other worlds
 1st repo
 edited  
